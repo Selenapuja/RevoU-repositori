@@ -1,0 +1,299 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold `index.html` with base layout and static structure": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605514701
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605531241
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605590491
+      }
+    ],
+    "2.1 Draw and embed the inline SVG cat inside `#cat-wrapper`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605515180
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605594107
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606022068
+      }
+    ],
+    "2.2 Write CSS keyframe animations and Tailwind fallback rules in `<style>`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605515501
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605597915
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606025960
+      }
+    ],
+    "3.1 Define `REACTION_POOL` array with all 8 reactions": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605515699
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605601650
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606030058
+      }
+    ],
+    "3.2 Implement boot-time `REACTION_POOL` validation": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605515832
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606034155
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606601442
+      }
+    ],
+    "4.1 Implement `pickReaction()` with no-3-consecutive rule and pool exhaustion shuffle": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605515983
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606037838
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606605336
+      }
+    ],
+    "4.2 Implement `triggerReaction(reaction)` and `clearAnimation()`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516129
+      }
+    ],
+    "4.3 Implement `triggerIdle(animationClass)`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516294
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606041311
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606609243
+      }
+    ],
+    "5.1 Implement audio capability detection and clip loading": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516458
+      }
+    ],
+    "5.2 Implement `play(reaction)`, `stopAll()`, and `toggleMute()`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516620
+      }
+    ],
+    "6.1 Implement `show(text)` with truncation and aria-live sync": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516763
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606045018
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606613286
+      }
+    ],
+    "6.2 Implement `showIdle()`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605516967
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606048539
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606616805
+      }
+    ],
+    "7.1 Implement `increment(onMilestone)` and DOM update": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517117
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606622221
+      }
+    ],
+    "8.1 Implement `start()`, `reset()`, and idle cycle": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517271
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606625983
+      }
+    ],
+    "8.2 Implement `cancel()`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517423
+      },
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606629617
+      }
+    ],
+    "9.1 Implement the central `handlePet()` function and attach event listeners": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517616
+      }
+    ],
+    "9.2 Implement `onMilestone(count)` callback and milestone message display": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517783
+      }
+    ],
+    "9.3 Implement `DOMContentLoaded` init sequence": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605517947
+      }
+    ],
+    "10. Checkpoint — verify layout and core interaction": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518103
+      }
+    ],
+    "11.1 Create `test.html` scaffold with fast-check CDN": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518287
+      }
+    ],
+    "11.2 Implement all 6 property tests (P1–P6)": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518447
+      }
+    ],
+    "12.1 Verify and patch accessibility attributes": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518615
+      }
+    ],
+    "12.2 Verify responsive layout at boundary viewports": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518778
+      }
+    ],
+    "13. Final checkpoint — full verification": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790605518999
+      }
+    ],
+    "2. Inline SVG cat illustration and `<style>` block": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606026128
+      }
+    ],
+    "3. Implement `REACTION_POOL` constant and boot-time validation": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606601648
+      }
+    ],
+    "6. Implement `MessageDisplay`": [
+      {
+        "executionId": "a2864da5-1da2-43d3-b233-5d23a795d419",
+        "chatSessionId": "sess_c05de4c0-2d80-42a7-8970-91b31a8dacc3",
+        "timestamp": 1790606616976
+      }
+    ]
+  }
+}
